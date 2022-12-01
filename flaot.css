@@ -1,0 +1,41 @@
+body {
+    margin: 0px;
+    background-color: rgba(163, 19, 67, 0.356);
+}
+
+/*decoração do meu primeiro quadrado*/
+.zeroparagrafo {
+    border: 2px solid lightseagreen;
+    height: 200px;
+    margin: 25px;
+    float: left;
+    width: 5000px;
+    background-color: rgb(218, 29, 29);
+    text-align: justify;
+}
+
+.primeiroquadro {
+    float: right;
+    text-align: justify;
+    border: 2px solid lightseagreen;
+    height: 200px;
+    margin: 25px;
+    float: left;
+    width: 5000px;
+    background-color: rgb(218, 29, 29);
+    text-align: justify;
+}
+.segundoquadro{
+    float: left;
+    text-align: justify;
+    border: 2px solid lightseagreen;
+    height: 200px;
+    margin: 25px;
+    float: left;
+    width: 5000px;
+    background-color: rgb(218, 29, 29);
+    text-align: justify;
+}
+@media screen and (max-width:800px) { 
+                                                                          
+}
